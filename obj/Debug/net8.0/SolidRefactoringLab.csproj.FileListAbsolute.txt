@@ -1,0 +1,14 @@
+C:\Users\mathe\Downloads\SolidRefactoringLab\bin\Debug\net8.0\SolidRefactoringLab.exe
+C:\Users\mathe\Downloads\SolidRefactoringLab\bin\Debug\net8.0\SolidRefactoringLab.deps.json
+C:\Users\mathe\Downloads\SolidRefactoringLab\bin\Debug\net8.0\SolidRefactoringLab.runtimeconfig.json
+C:\Users\mathe\Downloads\SolidRefactoringLab\bin\Debug\net8.0\SolidRefactoringLab.dll
+C:\Users\mathe\Downloads\SolidRefactoringLab\bin\Debug\net8.0\SolidRefactoringLab.pdb
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\SolidRefactoringLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\SolidRefactoringLab.AssemblyInfoInputs.cache
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\SolidRefactoringLab.AssemblyInfo.cs
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\SolidRefactoringLab.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\SolidRefactoringLab.dll
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\refint\SolidRefactoringLab.dll
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\SolidRefactoringLab.pdb
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\SolidRefactoringLab.genruntimeconfig.cache
+C:\Users\mathe\Downloads\SolidRefactoringLab\obj\Debug\net8.0\ref\SolidRefactoringLab.dll
